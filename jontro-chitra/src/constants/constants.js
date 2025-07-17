@@ -1,0 +1,22 @@
+export const surpriseMePrompts = [
+  "A cyberpunk city at night, glowing neon lights, rain-soaked streets",
+  "A steampunk dragon flying over a futuristic London",
+  "An astronaut relaxing on Mars with a cup of coffee",
+  "A mystical forest with glowing mushrooms and fairies",
+  "A robot painter creating a portrait of a human",
+  "A cat wearing a space suit floating in zero gravity",
+  "A surreal desert with melting clocks (inspired by Salvador Dalí)",
+  "A floating island with a castle and waterfalls spilling into the clouds",
+  "A futuristic samurai in a neon-lit alleyway",
+  "A Viking warrior riding a giant wolf through the snow",
+  "A city made of candy and chocolate rivers",
+  "A haunted library where books fly by themselves",
+  "A cybernetic owl perched on a glowing circuit tree",
+  "A magical underwater kingdom with mermaids and glowing fish",
+  "A pixel art-style village in a fantasy world",
+  "A flying car chase above a futuristic skyline",
+  "A panda DJ performing at a neon jungle party",
+  "A wizard casting spells inside a modern-day office",
+  "A cottage in the clouds with giant tulips around it",
+  "A time-traveling pirate ship soaring through space"
+];
